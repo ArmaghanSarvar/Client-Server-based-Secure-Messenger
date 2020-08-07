@@ -7,4 +7,5 @@ A session key is set between each client and the server, which is either encrypt
 message authentication code (MAC) has also been implemented to confirm that the message has not been changed.
 
 ### Phase 2:
-A two way PKC authentication has been implemented and digital signatures have been used.
+A two way PKC authentication has been implemented.
+Digital signatures have been used.
